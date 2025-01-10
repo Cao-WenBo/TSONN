@@ -1,1 +1,3 @@
-Ref: Cao W, Zhang W. TSONN: Time-stepping-oriented neural network for solving partial differential equations[J]. arXiv preprint arXiv:2310.16491, 2023.
+Ref: 
+[1] W. Cao, W. Zhang, TSONN: Time-stepping-oriented neural network for solving partial differential equations, arXiv preprint arXiv:2310.16491, (2023).
+[2] W. Cao, W. Zhang, An analysis and solution of ill-conditioning in physics-informed neural networks, Journal of Computational Physics, 520 (2025) 113494.
